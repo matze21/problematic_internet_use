@@ -1,0 +1,4 @@
+*.csv
+*.pdf
+/series_train.parquet/*
+/series_test.parquet/*
